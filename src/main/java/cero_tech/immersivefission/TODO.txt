@@ -1,0 +1,21 @@
+- Model for Heat Exchanger
+- Model for Reactor Chamber
+- Model for Turbine
+
+- Texture(s) for Heat Exchanger
+- Texture(s) for Reactor Chamber
+- Texture(s) for Turbine
+
+- Heat Exchanger functionality
+- Pressurizer functionality
+- Reactor Chamber functionality
+- Turbine functionality
+
+- Recipes for control rod and fuel rod
+
+- GUI for Heat Exchanger
+- GUI for Pressurizer
+- GUI for Reactor Chamber
+- GUI for Turbine
+
+- Debug

@@ -1,0 +1,10 @@
+item.immersivefission.fuel_rod.name=Fuel Rod
+item.immersivefission.control_rod.name=Control Rod
+
+tile.immersivefission.machine_multiblock.heat_exchanger.name=Heat Exchanger
+tile.immersivefission.machine_multiblock.pressurizer.name=Pressurizer
+tile.immersivefission.machine_multiblock.reactor_chamber.name=Reactor Chamber
+tile.immersivefission.machine_multiblock.turbine.name=Turbine
+
+tile.immersivefission.fluidSteam.name=Steam
+fluid.steam.name=Steam
